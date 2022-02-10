@@ -33,7 +33,7 @@
     "vue-template-compiler": "^2.6.10",
     "@types/signalr": "2.2.35",
     "expose-loader": "^0.7.5",
-    "node-sass": "4.9.0",
+    "node-sass": "7.0.0",
     "sass-loader": "7.0.1"
   },
   "postcss": {
